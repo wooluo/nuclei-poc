@@ -96,4 +96,5 @@ git clone https://github.com/MikeeI/nuclei-templates
 git clone https://github.com/alexrydzak/rydzak-nuclei-templates
 git clone https://github.com/praetorian-inc/chariot-launch-nuclei-templates
 git clone https://github.com/brinhosa/brinhosa-nuclei-templates
-
+rm -rf */.github
+rm -rf */.*
